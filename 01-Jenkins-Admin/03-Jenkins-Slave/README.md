@@ -58,11 +58,12 @@ Docker Image : jenkins-slave
 Remote File System Root : /home/jenkins
 Usage : Use this node as much as possible 
 Connect Method: Connect SSH 
-      SSH Key : Use configured SSH Credentials
+          SSH Key : Use configured SSH Credentials
 	  SSH Credentials : jenkins/password ( Select the jenkins-slave-credentials created in Step 10.5)
 	  Hostkey Verification : Non Verifying Verification Strategy
 Stop Timeout: 10 
-Pull Strategy: Never Pulled 
+Pull Strategy: Never Pulled
+[*] Enable
 -> Save 
 ```
 ### Step 12: Test Jenkins Build Inside a Docker container
