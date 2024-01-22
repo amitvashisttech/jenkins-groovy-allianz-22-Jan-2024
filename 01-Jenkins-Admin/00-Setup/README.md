@@ -26,7 +26,7 @@ sudo su -
 
 ### Step7 : Clone the git project repo 
 ```
-git clone https://github.com/amitvashisttech/jenkins-groovy-ericsson-20-Nov-2023.git
+git clone https://github.com/amitvashisttech/jenkins-groovy-allianz-22-Jan-2024.git
 ```
 
 ## Extra Vagrant Command  :
