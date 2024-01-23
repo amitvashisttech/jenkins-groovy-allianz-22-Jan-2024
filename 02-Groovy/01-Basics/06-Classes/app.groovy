@@ -11,3 +11,9 @@ d.languages << "Java"
 d.work()
 
 
+// TO run this program please use linux terminal in order to avoid class resloution issue. 
+
+// groovyc Developer.groovy
+// groovy  app.groovy
+
+
